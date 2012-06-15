@@ -1,1 +1,5 @@
 .DS_Store
+bin/
+.settings/
+hs_err_pid27039.log
+hs_err_pid30438.log
